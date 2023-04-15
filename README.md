@@ -1,2 +1,2 @@
 # Python
-PY4E Bootcamp through Michigan
+PY4E Bootcamp University of Michigan
